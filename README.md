@@ -5,6 +5,9 @@ Without logging in, Customers can list dresses by ID or brand, search for a dres
 
 Employees must login. They can search for customer by name, list customer information (including orders), list pending (confirmed and not shipped) orders by priority (expected arrival date), ship an order, list dresses, and add/remove dresses.
 
+## Disclaimer
+All dresses displayed are real, and I do not have ownership of any brands presented. Addresses, phone numbers, and other details are fake.
+
 ## Customer View
 <p align="center">
 Start Menu and Listing All Entries
