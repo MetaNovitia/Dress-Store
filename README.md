@@ -1,5 +1,9 @@
 # Dress-Store
-Storefront for Dresses using C++, implements different types of Data Structures
+Storefront for Dresses using C++, implements different types of Data Structures. Can be accessed by Customer and Employee.
+
+Without logging in, Customers can list dresses by ID or brand, search for a dress by ID or brand, and rate a dress. Customer needs to login to view cart, view orders, and place an order.
+
+Employees must login. They can search for customer by name, list customer information (including orders), list pending (confirmed and not shipped) orders by priority (expected arrival date), ship an order, list dresses, and add/remove dresses.
 
 ## Customer View
 <p align="center">
@@ -17,7 +21,7 @@ Detailed List, Sorted by Brand
 </p>
 <br/>
 <p align="center">
-Searching by Brand
+Searching by Brand, and Rating
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/Screen%20Shot%202019-07-16%20at%204.18.53%20PM.png" width="500" />
