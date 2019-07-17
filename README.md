@@ -1,5 +1,7 @@
 # Dress-Store
-### Storefront for Dresses using C++, implements different types of Data Structures
+Storefront for Dresses using C++, implements different types of Data Structures
+
+## Customer View
 <p align="center">
 Start Menu and Listing All Entries
 </p>
@@ -40,4 +42,49 @@ View Past Orders
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/Screen%20Shot%202019-07-16%20at%204.26.37%20PM.png" width="500" />
+</p>
+
+## Employee View
+<p align="center">
+View Orders by Priority
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/p2.png" width="500" />
+</p>
+<br />
+<p align="center">
+View Orders by Customer
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/p3.png" width="500" />
+</p>
+<br />
+<p align="center">
+Search Customer by Name
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/p4.png" width="500" />
+</p>
+<br />
+<p align="center">
+Add New Dress
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/p5.png" width="500" />
+</p>
+<br />
+<p align="center">
+Remove Dress
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/p6.png" width="500" />
+<img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/p7.png" width="500" />
+</p>
+<br />
+<p align="center">
+Ship Order
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/p8.png" width="500" />
+<img src="https://raw.githubusercontent.com/MetaNovitia/Dress-Store/master/pics/p9.png" width="500" />
 </p>
